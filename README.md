@@ -1,5 +1,6 @@
 # Companies where IT Guys can Apply
 ------------------------------------------------------------------
+_Choice is upto you._
 ------------------------------------------------------------------
 
 
@@ -35,9 +36,25 @@ By Latter F:
 ---------------------------------
 
 
+By Latter G:
+- Facebook
+---------------------------------
 
-Intel
-IBM
+
+By Latter H:
+- Facebook
+---------------------------------
+
+By Latter I:
+- Intel
+- IBM
+
+---------------------------------
+
+By Latter J:
+- Facebook
+---------------------------------
+
 Microsoft
 
 
@@ -46,20 +63,35 @@ Tesla
 Huawei
 
 Oracle
+
 Netflix
+
 Twitter
+
 FoxConn
+
 JD.com
+
 Hitachi
+
 Tencent
+
 Panasonic
+
 LG Electronics
+
 Paypal
 
 Google
+
 Meta
+
 Sony
+
 Samsung
+
 Lenovo
+
 HP Inc
+
 Xiaomi

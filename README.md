@@ -1,9 +1,9 @@
-# Companies where IT Guys can Apply
+# Companies 🏢 where IT Guys can Apply
 ------------------------------------------------------------------
 _Choice is upto you._
 ------------------------------------------------------------------
 
-
+--------------------------------
 By latter A:
 - Apple
 - Adobe
@@ -15,20 +15,15 @@ By latter A:
 ---------------------------------
 By Latter B:
 - Baidu
-
-
 ---------------------------------
 By latter C:
 - Cisco
-
-
-
 ---------------------------------
 By Latter D:
-- 
+- Dell
 ---------------------------------
 By Latter E:
-
+- Ed Tech
 ---------------------------------
 
 By Latter F:
@@ -37,12 +32,13 @@ By Latter F:
 
 
 By Latter G:
-- Facebook
+- Google
 ---------------------------------
 
 
 By Latter H:
-- Facebook
+- HP
+- Huawai
 ---------------------------------
 
 By Latter I:
@@ -55,43 +51,81 @@ By Latter J:
 - Facebook
 ---------------------------------
 
-Microsoft
+
+By Latter K:
+- Facebook
+---------------------------------
+
+By Latter L:
+- Lenovo
+- LG
+---------------------------------
+
+By Latter M:
+- Microsoft
+- Meta
+---------------------------------
+
+By Latter N:
+- Netflix
+---------------------------------
+
+By Latter O:
+- Oracle
+---------------------------------
 
 
-Tesla
+By Latter P:
+- Paypal
+- Panasonic
+---------------------------------
 
-Huawei
+By Latter Q:
+- Facebook
+---------------------------------
 
-Oracle
+By Latter R:
+- Facebook
+---------------------------------
 
-Netflix
+By Latter S:
+- Sony
+- Samsung
+---------------------------------
 
-Twitter
 
-FoxConn
+By Latter T:
+- Tesla
+- Twitter
+- Tencent
+--------------------------------
 
-JD.com
+By Latter V:
+- Facebook
+---------------------------------
 
-Hitachi
 
-Tencent
+By Latter W:
+- Facebook
+---------------------------------
 
-Panasonic
 
-LG Electronics
+By Latter X:
+- Xiaomi
+---------------------------------
 
-Paypal
 
-Google
+By Latter Y:
+- Facebook
+---------------------------------
 
-Meta
 
-Sony
+By Latter Z:
+- Zomato LTD (Tech Departement)
+---------------------------------
 
-Samsung
+<p align="center">
+That's All
+</p>
 
-Lenovo
-
-HP Inc
-
-Xiaomi
+![image](https://user-images.githubusercontent.com/48137657/190922012-f5c47aa9-f420-4ca0-816f-a21caf0951f7.png)

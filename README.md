@@ -125,7 +125,7 @@ By Latter Z:
 ---------------------------------
 
 <p align="center">
-That's All
+That's All.
 </p>
 
 ![image](https://user-images.githubusercontent.com/48137657/190922012-f5c47aa9-f420-4ca0-816f-a21caf0951f7.png)
